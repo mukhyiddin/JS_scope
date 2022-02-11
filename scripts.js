@@ -7,7 +7,7 @@ console.log("- Ada 2 yaitu global dan local ");
 console.log(" ");
 console.log("jelaskan secara singkat setiap variable scope yang dimiliki oleh Javascript");
 console.log("- Global scope : variabel yang dapat di akses 1 dokument");
-console.log("- Local scope : variabel yang hanya dapat di akses pada function yang telah di buat");
+console.log("- Local scope : variabel yang hanya dapat di akses pada function yang telah di buat atau block tertentu saja");
 console.log(" ");
 console.log("buatlah implementasi sederhana dari tiap-tiap variable scope yang dimiliki oleh Javascript");
 console.log(" ");
